@@ -1,0 +1,16 @@
+2026-04-17 19:38:38,162 - INFO - Starting fetchAPI run
+2026-04-17 19:38:38,162 - INFO - Saving data to /workspaces/Claude-Code-Pro/.Claude Code/skills/fetchAPI/.claude/skills/fetchAPI/data/2026-04-17_19-38-38
+2026-04-17 19:38:38,162 - INFO - Saving logs to /workspaces/Claude-Code-Pro/.Claude Code/skills/fetchAPI/.claude/skills/fetchAPI/logs/2026-04-17_19-38-38/fetchAPI.log
+2026-04-17 19:38:38,329 - INFO - Fetched https://raw.githubusercontent.com/Marwamedha/Azure-data-engineering/refs/heads/main/Data/AdventureWorks_Products.csv successfully
+2026-04-17 19:38:38,330 - INFO - Fetched https://raw.githubusercontent.com/Marwamedha/Azure-data-engineering/refs/heads/main/Data/AdventureWorks_Calendar.csv successfully
+2026-04-17 19:38:38,335 - INFO - Fetched https://raw.githubusercontent.com/Marwamedha/Azure-data-engineering/refs/heads/main/Data/AdventureWorks_Sales_2015.csv successfully
+2026-04-17 19:38:38,341 - INFO - Fetched https://raw.githubusercontent.com/Marwamedha/Azure-data-engineering/refs/heads/main/Data/AdventureWorks_Returns.csv successfully
+2026-04-17 19:38:38,351 - INFO - Fetched https://raw.githubusercontent.com/Marwamedha/Azure-data-engineering/refs/heads/main/Data/AdventureWorks_Customers.csv successfully
+2026-04-17 19:38:38,369 - INFO - Fetched https://raw.githubusercontent.com/Marwamedha/Azure-data-engineering/refs/heads/main/Data/AdventureWorks_Sales_2017.csv successfully
+2026-04-17 19:38:38,372 - INFO - Saved AdventureWorks_Calendar.csv to /workspaces/Claude-Code-Pro/.Claude Code/skills/fetchAPI/.claude/skills/fetchAPI/data/2026-04-17_19-38-38/AdventureWorks_Calendar.csv
+2026-04-17 19:38:38,379 - INFO - Saved AdventureWorks_Customers.csv to /workspaces/Claude-Code-Pro/.Claude Code/skills/fetchAPI/.claude/skills/fetchAPI/data/2026-04-17_19-38-38/AdventureWorks_Customers.csv
+2026-04-17 19:38:38,379 - INFO - Saved AdventureWorks_Products.csv to /workspaces/Claude-Code-Pro/.Claude Code/skills/fetchAPI/.claude/skills/fetchAPI/data/2026-04-17_19-38-38/AdventureWorks_Products.csv
+2026-04-17 19:38:38,380 - INFO - Saved AdventureWorks_Sales_2015.csv to /workspaces/Claude-Code-Pro/.Claude Code/skills/fetchAPI/.claude/skills/fetchAPI/data/2026-04-17_19-38-38/AdventureWorks_Sales_2015.csv
+2026-04-17 19:38:38,381 - INFO - Saved AdventureWorks_Sales_2017.csv to /workspaces/Claude-Code-Pro/.Claude Code/skills/fetchAPI/.claude/skills/fetchAPI/data/2026-04-17_19-38-38/AdventureWorks_Sales_2017.csv
+2026-04-17 19:38:38,381 - INFO - Saved AdventureWorks_Returns.csv to /workspaces/Claude-Code-Pro/.Claude Code/skills/fetchAPI/.claude/skills/fetchAPI/data/2026-04-17_19-38-38/AdventureWorks_Returns.csv
+2026-04-17 19:38:38,381 - INFO - fetchAPI run completed
